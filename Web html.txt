@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talent Match Africa Anthem</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+</head>
+<body>
+    <!-- Header with navigation -->
+    <header>
+        <img src="https://talentmatchafrica.io/wp-content/uploads/2024/11/Talent-Match-Africa_TMA-Mustard.png" alt="Talent Match Africa Logo" id="logo">
+        <nav>
+            <ul>
+                <li><a href="#members">Members</a></li>
+                <li><a href="#about">About the Anthem</a></li>
+                <li><a href="#video">Anthem Video</a></li>
+                <li><a href="#lyrics">Anthem Lyrics</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Section: Members -->
+    <section id="members">
+        <h2>Meet the Members</h2>
+        <div class="member">
+            <img src="https://ca.slack-edge.com/T01RQSM6BNV-U08EQMZ654K-g5721d2522ea-512" alt="Caran" class="member-img">
+            <p><strong>Caran</strong> (Digital Marketer)</p>
+        </div>
+        <div class="member">
+            <img src="https://ca.slack-edge.com/T01RQSM6BNV-U089ZNX9PPZ-75db726dc525-512" alt="Nolwazi Dladla" class="member-img">
+            <p><strong>Nolwazi Dladla</strong> (Executive Assistant)</p>
+        </div>
+        <div class="member">
+            <img src="https://ca.slack-edge.com/T01RQSM6BNV-U08AE8ZGVK4-52fc50a7cb7b-512" alt="Hlengiwe Dlamini" class="member-img">
+            <p><strong>Hlengiwe Dlamini</strong> (Executive Assistant)</p>
+        </div>
+        <div class="member">
+            <p><strong>Lindokuhle Mdhletshe</strong> (Executive Assistant)</p>
+        </div>
+        <div class="member">
+            <img src="https://ca.slack-edge.com/T01RQSM6BNV-U08EQMYKK43-e75bd1271c0c-512" alt="Mthobisi Mtanzi" class="member-img">
+            <p><strong>Mthobisi Mtanzi</strong> (Web Developer)</p>
+        </div>
+        <div class="member">
+            <img src="https://ca.slack-edge.com/T01RQSM6BNV-U08AE6CRPM1-afd51592e75f-512" alt="Paballo Mohapi" class="member-img">
+            <p><strong>Paballo Mohapi</strong> (Executive Assistant)</p>
+        </div>
+    </section>
+
+    <!-- Section: About the Anthem -->
+    <section id="about">
+        <h2>About the Anthem</h2>
+        <p>
+            Talent Match Africa is not just an organization; it is a movement that believes in the power of talent to shape the future of Africa. Inspired by the strength and potential of our diverse continent, we are dedicated to creating meaningful connections between talent and opportunities. Our mission is to empower individuals, organizations, and communities by fostering a workforce that is dynamic, innovative, and inclusive. Through collaboration, we aim to unlock the immense potential of Africa’s young, vibrant, and diverse talent.
+        </p>
+        <p>
+            Our Anthem speaks to the essence of who we are and what we stand for. It celebrates the unique cultural identities and languages of Africa, with a particular focus on the four primary languages that define the countries in which we operate: English, Zulu, Swahili, and Igbo. These languages symbolize the rich diversity of Africa, and our commitment to inclusivity is embedded in this multilingual approach.
+        </p>
+        <p>
+            The Anthem reminds us of the importance of unity in diversity, as we strive to connect talented individuals with the right opportunities, irrespective of background or language.
+        </p>
+    </section>
+
+    <!-- Section: Anthem Video -->
+    <section id="video">
+        <h2>Anthem Video</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_ANTHEM_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    </section>
+
+    <!-- Section: Anthem Lyrics -->
+    <section id="lyrics">
+        <h2>Anthem Lyrics</h2>
+        <p>Here you can list the lyrics of the anthem, line by line, or embed a PDF of the lyrics if preferred.</p>
+        <pre>
+            Line 1 of the Anthem
+            Line 2 of the Anthem
+            Line 3 of the Anthem
+            (Continue as necessary)
+        </pre>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Talent Match Africa. All rights reserved.</p>
+    </footer>
+</body>
+</html>
